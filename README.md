@@ -22,6 +22,6 @@
 
 hi! i'm snalewife, but you can call me snale if you'd prefer :)
 
-i'm interested in linux customization, digital privacy, and speculative fiction
+i'm interested in linux customization, digital privacy, and interactive fiction
 
 fedi links coming soon !!
